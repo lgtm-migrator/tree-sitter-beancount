@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.2](https://github.com/polarmutex/tree-sitter-beancount/compare/v2.1.1...v2.1.2) (2022-07-02)
+
+
+### Bug Fixes
+
+* npm publish ([4cbd1f0](https://github.com/polarmutex/tree-sitter-beancount/commit/4cbd1f09cd07c1f1fabf867c2cf354f9da53cc4c))
+
 ## [2.1.1](https://github.com/polarmutex/tree-sitter-beancount/compare/v2.1.0...v2.1.1) (2022-07-02)
 
 
